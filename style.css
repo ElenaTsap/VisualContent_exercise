@@ -48,12 +48,7 @@ footer img {
 
 .box:hover {
     box-shadow: 0px 0px 85px -18px coral;
-    opacity: 40%;
-}
-
-a:hover {
-    opacity: 100%;
-    background-color: darkgoldenrod;
+    background-color: coral;
 }
 
 .box img {
